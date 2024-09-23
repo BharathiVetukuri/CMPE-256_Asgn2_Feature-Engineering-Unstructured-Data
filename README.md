@@ -30,7 +30,8 @@ Using the provided reference files and In Class Demo Files on wave features, hav
 
 ![image](https://github.com/user-attachments/assets/b0b687d9-76c9-4887-8ad3-574e795bc7e3)
 
-![image](https://github.com/user-attachments/assets/f76e375d-fe94-4a62-af16-5c1df842184d)
+![image](https://github.com/user-attachments/assets/c528b719-6348-46be-8fd5-0dfc28ea85fd)
+
 
 
 
